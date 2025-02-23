@@ -9,10 +9,14 @@
 - 30 CFU all. 2 è per triennalisti
 - 30 CFU all. 3-4 è pre-concorso + post-concorso
 - 30 CFU art. 13 è per abilitati su altra cdc
-- [Tabella graduatoria 60CFU](https://www.mur.gov.it/sites/default/files/2024-04/Decreto%20Ministeriale%20n.%20621%20del%2022-04-2024%20-%20All.%20B%20-%20Decreto%20autorizzazione.pdf)
+- [Tabella graduatoria 60CFU, primo ciclo](https://www.mur.gov.it/sites/default/files/2024-04/Decreto%20Ministeriale%20n.%20621%20del%2022-04-2024%20-%20All.%20B%20-%20Decreto%20autorizzazione.pdf)
 - [Accreditamento per ateneo primo ciclo 60CFU](https://www.mur.gov.it/sites/default/files/2024-04/Decreto%20Ministeriale%20n.%20621%20del%2022-04-2024%20-%20All.%20A%20-%20Decreto%20autorizzazione%20.pdf)
 
 - [Requisiti attuali A020-A027, DM 22 dicembre 2023](https://www.tfa-piemonte.unito.it/do/documenti.pl/ShowFile?_id=jdg6;field=file;key=ktHh03pF9CI9rr9ZKYVMjI4pzkVj7qwD6OZKRq3URJs;t=2526)
  - [Requisiti attuali A026, DM 20 novembre 2023](https://www.tfa-piemonte.unito.it/do/documenti.pl/ShowFile?_id=0u1c;field=file;key=z81ntCZyRd6KqFiV6LxjQ92fyXRDzhruaSZHlcy36EnsJ0bRSlsiU;t=5753)
 
  - [Requisiti tutte CDC, DPR 19/2016 (vecchio)](https://www.istruzione.it/graduatoriedistituto/allegati/D.P.R.%2019_2016%20Nuove%20Classi%20di%20Concorso.pdf)
+
+  - Enti certificatori, [nota](https://www.mim.gov.it/documents/20182/7975243/m_pi.AOODPIT.REGISTRO+DECRETI+DIPARTIMENTALI%28R%29.0002813.21-11-2024.pdf/9a29dc29-910d-3119-8311-27dfef6b1536?version=1.0&t=1732275839060), [sito](https://piattaformaenticert.pubblica.istruzione.it/pocl-piattaforma-enti-cert-web/elenco-enti-accreditati)
+
+  

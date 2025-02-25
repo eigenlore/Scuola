@@ -9,7 +9,9 @@
 - 30 CFU all. 2 è per triennalisti
 - 30 CFU all. 3-4 è pre-concorso + post-concorso
 - 30 CFU art. 13 è per abilitati su altra cdc
-- [Tabella graduatoria 60CFU, primo ciclo](https://www.mur.gov.it/sites/default/files/2024-04/Decreto%20Ministeriale%20n.%20621%20del%2022-04-2024%20-%20All.%20B%20-%20Decreto%20autorizzazione.pdf)
+
+- [Tabella titoli 60CFU, primo ciclo](https://www.mur.gov.it/sites/default/files/2024-04/Decreto%20Ministeriale%20n.%20621%20del%2022-04-2024%20-%20All.%20B%20-%20Decreto%20autorizzazione.pdf)
+
 - [Accreditamento per ateneo primo ciclo 60CFU](https://www.mur.gov.it/sites/default/files/2024-04/Decreto%20Ministeriale%20n.%20621%20del%2022-04-2024%20-%20All.%20A%20-%20Decreto%20autorizzazione%20.pdf)
 
 - [Requisiti attuali A020-A027, DM 22 dicembre 2023](https://www.tfa-piemonte.unito.it/do/documenti.pl/ShowFile?_id=jdg6;field=file;key=ktHh03pF9CI9rr9ZKYVMjI4pzkVj7qwD6OZKRq3URJs;t=2526)
@@ -19,4 +21,39 @@
 
   - Enti certificatori, [nota](https://www.mim.gov.it/documents/20182/7975243/m_pi.AOODPIT.REGISTRO+DECRETI+DIPARTIMENTALI%28R%29.0002813.21-11-2024.pdf/9a29dc29-910d-3119-8311-27dfef6b1536?version=1.0&t=1732275839060), [sito](https://piattaformaenticert.pubblica.istruzione.it/pocl-piattaforma-enti-cert-web/elenco-enti-accreditati)
 
-  
+  - [Tabella titoli 60 cfu, secondo ciclo](https://www.mur.gov.it/sites/default/files/2025-02/Decreto%20Ministeriale%20n.%20156%20del%2024-02-2025%20-%20Allegato%20B_decreto%20autorizzazione%20posti%202025.pdf)
+
+  - [Accreditamento per ateneo secondo ciclo ciclo 60CFU](https://www.mur.gov.it/sites/default/files/2025-02/Decreto%20Ministeriale%20n.%20156%20del%2024-02-2025%20-%20ALLEGATO%20A.pdf)
+
+  | CDC  | Ateneo | N° posti      |
+|-------|----|------------|
+| A020 | Unito | 15 |
+| A026 | Unito | 40 |
+| A027 | Unito | 10 |
+| A028 | Unito | 60 |
+| A041 | Unito | 20 |
+| A040 | Unito | 20 |
+| A020 | Ecampus Piemonte | 0 |
+| A026 | Ecampus Piemonte | 18 |
+| A027 | Ecampus Piemonte | 8 |
+| A028 | Ecampus Piemonte | 20 |
+| A040 | Ecampus Piemonte | 0 |
+| A041 | Ecampus Piemonte | 0 |
+| A020 | Unimib | 20 |
+| A026 | Unimib | 60 |
+| A027 | Unimib | 40 |
+| A028 | Unimib | 160 |
+| A040 | Unimib | 0 |
+| A041 | Unimib | 100 |
+| A020 | Unimi | 20 |
+| A026 | Unimi | 0 |
+| A027 | Unimi | 0 |
+| A028 | Unimi | 50 |
+| A040 | Unimi | 0 |
+| A041 | Unimi | 0 |
+| A020 | Ecampus Lombardia | 0 |
+| A026 | Ecampus Lombardia | 45 |
+| A027 | Ecampus Lombardia | 18 |
+| A028 | Ecampus Lombardia | 43 |
+| A040 | Ecampus Lombardia | 0 |
+| A041 | Ecampus Lombardia | 0 |

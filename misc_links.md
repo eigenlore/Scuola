@@ -25,35 +25,8 @@
 
   - [Accreditamento per ateneo secondo ciclo ciclo 60CFU](https://www.mur.gov.it/sites/default/files/2025-02/Decreto%20Ministeriale%20n.%20156%20del%2024-02-2025%20-%20ALLEGATO%20A.pdf)
 
-  | CDC  | Ateneo | N° posti      |
-|-------|----|------------|
-| A020 | Unito | 15 |
-| A026 | Unito | 40 |
-| A027 | Unito | 10 |
-| A028 | Unito | 60 |
-| A041 | Unito | 20 |
-| A040 | Unito | 20 |
-| A020 | Ecampus Piemonte | 0 |
-| A026 | Ecampus Piemonte | 18 |
-| A027 | Ecampus Piemonte | 8 |
-| A028 | Ecampus Piemonte | 20 |
-| A040 | Ecampus Piemonte | 0 |
-| A041 | Ecampus Piemonte | 0 |
-| A020 | Unimib | 20 |
-| A026 | Unimib | 60 |
-| A027 | Unimib | 40 |
-| A028 | Unimib | 160 |
-| A040 | Unimib | 0 |
-| A041 | Unimib | 100 |
-| A020 | Unimi | 20 |
-| A026 | Unimi | 0 |
-| A027 | Unimi | 0 |
-| A028 | Unimi | 50 |
-| A040 | Unimi | 0 |
-| A041 | Unimi | 0 |
-| A020 | Ecampus Lombardia | 0 |
-| A026 | Ecampus Lombardia | 45 |
-| A027 | Ecampus Lombardia | 18 |
-| A028 | Ecampus Lombardia | 43 |
-| A040 | Ecampus Lombardia | 0 |
-| A041 | Ecampus Lombardia | 0 |
+- [Nota MIM-MUR svolgimento percorsi abilitanti, 28/06/24](https://www.obiettivoscuola.it/wp-content/uploads/2024/10/AOOSG_MURREGISTRO-UFFICIALE20240007845-3_240809_203201.pdf)
+
+- [Nota USR Piemonte accreditamento eccezionale](https://www.istruzionepiemonte.it/wp-content/uploads/2025/03/Nota_accreditamento_per_tirocinio_2024_25_5838_27-03-2025.pdf)
+
+- [Scuola accreditate novembre 24](https://www.istruzionepiemonte.it/accreditamento-delle-istituzioni-scolastiche-sedi-di-tirocinio-dm-249-2010-pubblicazione-elenco-definitivo-a-s-24-25/)

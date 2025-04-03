@@ -30,3 +30,5 @@
 - [Nota USR Piemonte accreditamento eccezionale](https://www.istruzionepiemonte.it/wp-content/uploads/2025/03/Nota_accreditamento_per_tirocinio_2024_25_5838_27-03-2025.pdf)
 
 - [Scuola accreditate novembre 24](https://www.istruzionepiemonte.it/accreditamento-delle-istituzioni-scolastiche-sedi-di-tirocinio-dm-249-2010-pubblicazione-elenco-definitivo-a-s-24-25/)
+
+- [Rinuncia nomina maturità](https://www.orizzontescuola.it/esami-di-stato-2025-obbligo-di-domanda-per-i-vincitori-del-concorso-pnrr-con-contratto-al-31-agosto/)

@@ -32,3 +32,5 @@
 - [Scuola accreditate novembre 24](https://www.istruzionepiemonte.it/accreditamento-delle-istituzioni-scolastiche-sedi-di-tirocinio-dm-249-2010-pubblicazione-elenco-definitivo-a-s-24-25/)
 
 - [Rinuncia nomina maturità](https://www.orizzontescuola.it/esami-di-stato-2025-obbligo-di-domanda-per-i-vincitori-del-concorso-pnrr-con-contratto-al-31-agosto/)
+
+- [Accantonamenti A027 25-26](https://www.istruzionepiemonte.it/immissioni-in-ruolo-a-s-2025-2026_provvedimento-accantonamenti-provinciali-per-vincitori-idonei-procedura-concorsuale-di-cui-al-dd-3059-2024-per-le-graduatorie-che-saranno-pubblicate-dopo-il-31-08-2-2/)

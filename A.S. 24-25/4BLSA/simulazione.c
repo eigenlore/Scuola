@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define N 1000000
+#define N 100000
 #define DT 1e-4
 #define V0 0
 #define X0 1

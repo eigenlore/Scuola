@@ -1,0 +1,6 @@
+- Lagrange h=f-kx, Coscì h=f-kg
+- y'+ay+b=0, y''+ay'+by+c=0, complessi e poi prendi Re
+- Hopital, f(x0)=g(x0)=0
+- Metodo gusci non devi mettere f(x+dx)
+- Sezioni V=int S(x)dx
+- Ricordati che ha seno la eq diff
